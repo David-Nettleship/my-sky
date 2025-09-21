@@ -22,7 +22,7 @@ def above(lat, long, elevation):
 
 def lambda_handler(event, context):
 
-    # TODO: THese values should come from the event
+    # TODO: These values should come from the event
     lat = 53.21667
     long = -1.01667
     elevation = 47
